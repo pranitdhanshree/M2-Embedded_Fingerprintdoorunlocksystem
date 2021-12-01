@@ -4,7 +4,7 @@ This activity is demonstration of controlling DC motor with the help of Atmega32
 In this activity, 
 I performed two operations with DC motor
 1) Controlling DC motor using in clockwise direction using switch.
-2)
+2) Controlling DC motor direction( clockwise & anticlockwise ) using switch.
 DC MOTOR: 
 A direct current (DC) motor is a type of electric machine that converts electrical energy into mechanical energy. DC motors take electrical power through direct current, and convert this energy into mechanical rotation.
 DC motors use magnetic fields that occur from the electrical currents generated, which powers the movement of a rotor fixed within the output shaft. The output torque and speed depends upon both the electrical input and the design of the motor.
@@ -32,3 +32,18 @@ Where : On the Laptop or PC .
 
 # 1'H
 How : Programming and simulation can be done on terminal and simulide from Personal computer or laptop.
+
+## Detail Requirements :
+
+## High Level Requirements :
+| ID | Description | Status |
+| --- | --- | --- |
+| HLR_1 | The user can change its selected sign("ON","OFF"). | Implemented |
+
+## Low Level Requiremnets :
+| ID | Description | Status |
+| --- | --- | --- |
+| LLR_1 | List of operations displayed | Implemented |
+| LLR_2 | Input from the user. | Implemented |
+| LLR_3 |Exit the program . | Implemented |
+
