@@ -46,3 +46,11 @@ How : Programming and simulation can be done on terminal and simulide from Perso
 | LLR_1 | List of operations displayed | Implemented |
 | LLR_2 | Input from the user. | Implemented |
 | LLR_3 |Exit the program . | Implemented |
+
+Circuit: Motor.simu
+
+Bill of Materials:
+
+DcMotor-2 : DcMotor 100 Ω
+Switch-5 : Switch   
+atmega328-1 : atmega328   
