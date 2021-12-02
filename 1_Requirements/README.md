@@ -26,7 +26,7 @@ Who : Can be done by person having knowledge of embedded .
 
 What : Do programming of microcontroller and perform simulation.
 
-When :
+When : TO interface motor with atmega328
 
 Where : On the Laptop or PC .
 
